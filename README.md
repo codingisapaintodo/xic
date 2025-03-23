@@ -1,5 +1,7 @@
-XIU IS A MODIFED VERSION OF XNU KERNEL MADE TO BE COMPATIBLE WITH OTHER DEVICES THE WAY YOU COMPILE IT IS THE SAME WITH XNU MOST COMPATIBILITY FILES ARE IN IOKIT AND OSFMK
+XIU IS A MODIFED VERSION OF XNU KERNEL MADE TO BE COMPATIBLE WITH OTHER HARDWARE
+THIS IS A ALPHA
 
+COMPILE:
 * `config` - configurations for exported apis for supported architecture and platform
 * `SETUP` - Basic set of tools used for configuring the kernel, versioning and kextsymbol management.
 * `EXTERNAL_HEADERS` - Headers sourced from other projects to avoid dependency cycles when building. These headers should be regularly synced when source is updated.
