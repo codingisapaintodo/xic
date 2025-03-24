@@ -1,7 +1,10 @@
 XIU IS A MODIFED VERSION OF XNU KERNEL MADE TO BE COMPATIBLE WITH OTHER HARDWARE
 THIS IS A ALPHA
 
-Name stands for X IS COMPATIBLE
+This fork is meant for creating operating systems.
+
+Currently working on replacing components that need darwin to work with freebsd ones to make it work indapentently (stage 1) 
+i will make a seprate repo if you want to use it with darwin components
 
 * `config` - configurations for exported apis for supported architecture and platform
 * `SETUP` - Basic set of tools used for configuring the kernel, versioning and kextsymbol management.
@@ -17,7 +20,7 @@ Name stands for X IS COMPATIBLE
 * `bsd` - BSD subsystems code
 * `tools` - A set of utilities for testing, debugging and profiling kernel.
 
-## How to Build XNU
+## How to Build XIC
 
 ### Building a `DEVELOPMENT` Kernel
 
