@@ -3,7 +3,7 @@ THIS IS A ALPHA
 
 This fork is meant for creating operating systems.
 
-Currently working on replacing components that need darwin to work with freebsd ones to make it work indapentently (stage 1) 
+Currently working on replacing components that need darwin to work with freebsd ones to make it work independently (stage 1) 
 i will make a seprate repo if you want to use it with darwin components
 
 * `config` - configurations for exported apis for supported architecture and platform
